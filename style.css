@@ -1,0 +1,286 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: hsl(275, 33%, 93%);
+}
+
+.header{
+    display:flex;
+}
+
+.header img{
+    margin-left: 7px;
+    width:125px;
+}
+
+.header a{
+    text-decoration: none;
+    font-size: 15px;
+    padding: 8px;
+}
+
+.container{
+    margin-top: 30px;
+}
+
+.log{
+    color: hsl(241, 96%, 54%);
+    margin-left: 950px;
+    padding-right: 5px;
+}
+
+.log:hover{
+    color: hsl(241, 96%, 54%);
+    text-decoration: underline;
+}
+.sign{
+    color: white;
+    background-color: hsl(241, 96%, 54%);
+    padding: 15px;
+    border-radius: 5px;
+}
+.sign:hover{
+    background-color:  hsl(241, 99%, 31%);
+}
+
+.container1{
+    display:flex;
+    justify-content: space-evenly;
+    padding: 100px 0px;
+   
+}
+.container1 a{
+    text-decoration: none;
+    color: white;
+    font-size:  20px; ;
+    background-color:hsl(241, 96%, 54%);
+    padding: 10px 60px 10px 60px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.container1 a:hover{
+    background-color:hsl(241, 99%, 31%) ;
+}
+input{
+    font-size: 20px;
+    margin-top: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    border:solid 1px skyblue;
+}
+
+
+.container1 img{
+    width: 400px;
+}
+.container_one{
+    width:750px;
+    font-size: 25px;
+    margin-top: 100px;
+}
+
+.container2{
+    margin-top:100px;
+    font-size: 18px;
+    text-align: center;
+    width:900px;
+    margin-left: 180px;
+}
+.container2 img{
+    width: 900px;
+    margin-top:20px ;
+}
+.container2 a{
+    text-decoration: none;
+    color: hsl(241, 96%, 54%);
+    padding: 10px 30px;
+    border:solid 1px hsl(241, 96%, 54%);
+    border-radius: 5px;
+}
+.container2 a:hover{
+    color: white;
+    background-color:hsl(241, 96%, 54%) ;
+}
+.abc{
+    margin-top: 40px;
+}
+
+.img img{
+    width: auto;
+}
+
+.container3{
+     margin-top: 100px;
+     margin-left: 75px;
+     width: 400px;
+     font-size: 18px;
+}
+
+.container4{
+    margin-top: 100px;
+    font-size: 18px;
+}
+.container4 img{
+    width:400px;
+}
+.container4 a{
+    text-decoration: none;
+    color: black;
+}
+.container4 a:hover{
+text-decoration: underline;
+}
+.def{
+    width: 500px;
+    color: gray;
+}
+.container_four_1{
+    justify-content: space-evenly;
+    display:flex;
+    margin-top: 100px;
+}
+
+.container5{
+    display:flex;
+    margin-top: 100px;
+    padding: 50px;
+    justify-content:space-evenly ;
+    font-size: 15px;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    
+}
+.container5 a{
+    text-decoration: none;
+    color: hsl(241, 96%, 54%);
+    padding: 10px 30px 10px 30px ;
+    border:solid 1px hsl(241, 96%, 54%);
+    border-radius: 5px;
+}
+.container5 a:hover{
+    color: white;
+    background-color:hsl(241, 96%, 54%) ;
+}
+.container_5{
+    display: flex;
+    width:400px;
+}
+.space{
+    margin-left: 40px;
+}
+.xyz{
+    margin-top: 30px;
+}
+
+.main{
+    background-color: #eef9fc;
+}
+.container6{
+    margin-top: 100px;
+    display:flex;
+    font-size: 30px;
+    padding: 60px;
+}
+.container_6_1{
+    margin-left: 700px;
+    font-size: 20px;
+
+}
+.x{
+    margin-left: 50px;
+}
+.y{
+font-size: 20px;
+}
+.container6_1{
+    background-color: #eef9fc ;
+    margin-top: 0px;
+    padding: 30px;
+
+}
+.q{
+    border-bottom: solid 5px #030447;
+}
+.container6_1 a{
+    padding: 5px;
+    text-decoration: none;
+    
+}
+.q1{
+    background-color: #030447;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.q1:hover{
+    background-color: dodgerblue;
+}
+.q2{
+    font-size: 40px;
+}
+.q2:hover{
+    background-color: whitesmoke;
+}
+
+.container7{
+    color: white;
+    text-align: center;
+    padding: 100px;
+    background-color: #4b4bd3;
+    margin:50px 120px ;
+    border-radius: 25px;
+}
+.container7 a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    background-color:hsl(184, 54%, 50%);
+    padding: 15px 60px ;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.container7 a:hover{
+    background-color: hsl(192, 69%, 48%);
+}
+
+.container8{
+    display: flex;
+    
+    padding: 20px 50px 20px 300px;
+    font-size: 20px;
+}
+.container8 p{
+    padding-right: 30px;
+    padding-top: 10px;
+}
+.container8 img{
+    width: 70%;
+    padding: 5px;
+}
+
+
+
+.footer{
+    margin-top: 100px;
+    text-align:center;
+}
+.footer a{
+    color: gray;
+    padding: 15px;
+    font-size: 18px;
+}
+.footer a:hover{
+    color:black;
+}
+.footer img{
+    width:150px;
+}
+.c{
+
+    margin:30px 0px 30px 0px;
+}
+.b{
+   font-size: 18px;
+   color: gray;
+   padding:10px 20px;
+   border-color: gray;
+}
